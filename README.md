@@ -45,15 +45,13 @@ ros2 launch arduinobot_description gazebo.launch.py
 ros2 launch arduinobot_controller controller.launch.py
 ```
 
-📽 Demo
-📹 [Add a YouTube link or GIF here once uploaded]
 
 ## 🧩 Dependencies
-ROS 2 Foxy
+ROS 2 Foxy,
 ros_gz_sim, ros_gz_bridge
 ros2_control, controller_manager
 robot_state_publisher, joint_state_publisher_gui
-xacro, rviz2, urdf
+xacro, rviz2, urdf,
 Install ros_gz_sim if not already available
 
 ## 🧠 Future Work
