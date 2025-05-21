@@ -33,20 +33,17 @@ This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, 
 Ensure you're using ROS 2 Foxy, have sourced your workspace, and installed all required packages (see dependencies below).
 
 1. Launch in RViz (Robot Model View)
-bash
-Copy
-Edit
+```
 ros2 launch arduinobot_description display.launch.py
+```
 2. Launch in Gazebo Simulation
-bash
-Copy
-Edit
+```
 ros2 launch arduinobot_description gazebo.launch.py
+```
 3. Load and Spawn Controllers
-bash
-Copy
-Edit
+```
 ros2 launch arduinobot_controller controller.launch.py
+```
 
 📽 Demo
 📹 [Add a YouTube link or GIF here once uploaded]
