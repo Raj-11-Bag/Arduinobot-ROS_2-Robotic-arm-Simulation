@@ -2,6 +2,9 @@
 
 This project simulates a modular robotic arm (Arduinobot) using **ROS 2 Foxy**, **Gazebo**, and **ros2_control**. It showcases a complete robot description, control setup, and simulation environment integration — designed to be hardware-ready and extensible for advanced tasks like **additive manufacturing (Direct Energy Deposition)**.
 
+## 📽️ Demo Video
+[![Watch the video](https://img.youtube.com/vi/CfOsB5Pa6sc/0.jpg)](https://youtu.be/CfOsB5Pa6sc)
+
 ---
 
 ## 🛠️ Features
